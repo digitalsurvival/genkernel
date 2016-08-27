@@ -19,7 +19,7 @@ setup(
     description=__description__,
     url=__source__,
     license='MIT',
-    keywords='genkernel rewrite',
+    keywords='linux kernel automatic',
     packages=['genkernel'],
     install_requires=['kaudit'],
     long_description=read('readme.md'),

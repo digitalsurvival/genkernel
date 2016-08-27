@@ -1,9 +1,9 @@
 __author__ = 'matthew marchese'
 __email__ = 'maffblaster@gentoo.org'
-__description__ = 'Automatic kernel generation'
+__description__ = 'An experimental entire rewrite of Gentoo\'s genkernel for Python 3'
 __license__ = 'MIT'
 __source__ = 'https://github.com/digitalsurvival/genkernel.git'
-__version__ = '0.0.1'
+__version__ = '4.0.0'
 # The command-line interface for genkernel
 
 # cli interface
